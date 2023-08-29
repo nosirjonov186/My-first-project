@@ -1,1 +1,1 @@
-# Joystick qurilmasidan foydalanish code
+# Joystick qurilmasidan foydalanish dasturi
